@@ -1,0 +1,51 @@
+@import "settings";
+
+article {
+
+	width: $article-width;
+	min-height: calc(100vh - $header-height - $footer-height);
+	margin-right: calc((100vw - $article-width) / 2);
+	
+	padding-inline: .5rem;
+	padding-top: 1.5rem;
+	padding-bottom: 3rem;
+
+	background-image: url('/vegniette.svg');
+	background-position: bottom center;
+	background-repeat: no-repeat;
+	
+	@media (min-aspect-ratio: $body-min-aspect-ratio) and (max-aspect-ratio: $body-max-aspect-ratio) and (max-width: calc($article-width + 1.6 * $background-image-width)) {
+		margin-right: calc(.8 * $background-image-width);
+	}
+
+	h1 {
+	    text-align: center;
+	    font-size: 2rem;
+	    margin-bottom: 2rem;
+	}
+
+	img {
+	    max-width: calc(80ch - 2rem);
+	    margin: 1rem auto;
+	    display: block;
+	}
+
+	a {
+	    text-decoration: none;
+	    color: $link-color;
+	}
+
+	blockquote {
+	    border-left: .3rem solid silver;
+	    padding-left: 1.5rem;
+	    p {
+		//white-space: pre-wrap;
+		font-style: italic;
+		text-indent: .5rem;
+	    }
+	}
+
+	code {
+	    color: white;
+	}
+}

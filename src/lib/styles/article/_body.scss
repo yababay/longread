@@ -1,0 +1,43 @@
+@import 'settings';
+
+body, #body, header, main, footer, article {
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-color: $body-background !important;
+    color: $body-color !important;
+
+    a {
+        color: $link-color !important;
+    }
+
+    display: grid;
+    grid-template:
+        "header" $header-height
+        "main" auto
+        "footer" $footer-height;
+
+
+
+    @media (min-aspect-ratio: $body-min-aspect-ratio) and (max-aspect-ratio: $body-max-aspect-ratio)  {
+        background-image: $background-image;
+        background-repeat: no-repeat;
+        background-position: top right;
+        background-size: $background-image-width $background-image-height;
+        background-attachment: fixed;
+    }
+}
+
+body > header {
+    grid-area: header;
+}
+
+body > main {
+    grid-area: main;
+}
+
+body > footer {
+    grid-area: footer;
+}
