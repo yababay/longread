@@ -9,12 +9,14 @@
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
 		"deploy": "npm run build && rsync -ar build/ ru:/home/mabel/.3f-lab/_humanitarian/longread/build",
 		"git": "read -p 'Суть коммита: ' COMMIT; git add . ; git commit -am $COMMIT",
+		"gh-pages": "vite build && gh-pages -d build -t true",
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^3.0.0",
 		"@sveltejs/kit": "^2.0.0",
 		"@sveltejs/vite-plugin-svelte": "^3.0.0",
+		"gh-pages": "^6.1.1",
 		"svelte": "^4.2.7",
 		"svelte-check": "^3.6.0",
 		"tslib": "^2.4.1",
