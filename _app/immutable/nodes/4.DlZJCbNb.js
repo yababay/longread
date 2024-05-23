@@ -1,7 +1,8 @@
-import{s,n as r}from"../chunks/scheduler.CtbWrGNo.js";import{S as i,i as l,n as c,o as m,p,l as u,m as b,q as g}from"../chunks/index.D_d3RPrM.js";import{A as f}from"../chunks/index.CHItn9hs.js";const h=!0,y=!1,$=Object.freeze(Object.defineProperty({__proto__:null,csr:y,ssr:h},Symbol.toStringTag,{value:"Module"})),_=`Здесь размещены длинные тексты (лонгриды) для Телеграм-канала [«Эхо русских революций»](https://t.me/channel_1917).
+import{s,n as r}from"../chunks/scheduler.CtbWrGNo.js";import{S as i,i as l,n as c,o as m,p,l as u,m as g,q as b}from"../chunks/index.D_d3RPrM.js";import{A as f}from"../chunks/index.CHItn9hs.js";const h=!0,y=!1,$=Object.freeze(Object.defineProperty({__proto__:null,csr:y,ssr:h},Symbol.toStringTag,{value:"Module"})),_=`Здесь размещены длинные тексты (лонгриды) для Телеграм-канала [«Эхо русских революций»](https://t.me/channel_1917).
 
 # Содержание
 
+* [Секретрый ингредиент пролетариата](./proletariat-ingredient/)
 * [Квантовая политэкономия](./political-honest-smart/)
 * [Материализм и эмпириогопницизм](./materializm/)
 * [Квантовая механика для диссидентов](./political-honest-smart/)
@@ -33,4 +34,4 @@ import{s,n as r}from"../chunks/scheduler.CtbWrGNo.js";import{S as i,i as l,n as 
 * [Шелдон и Ильич](articles/sheldon)
 * [Бронепоезда Белой армии](articles/bronepoezd)
 -->
-`;function d(a){let n,e;return n=new f({props:{raw:_}}),{c(){c(n.$$.fragment)},l(t){m(n.$$.fragment,t)},m(t,o){p(n,t,o),e=!0},p:r,i(t){e||(u(n.$$.fragment,t),e=!0)},o(t){b(n.$$.fragment,t),e=!1},d(t){g(n,t)}}}class j extends i{constructor(n){super(),l(this,n,null,d,s,{})}}export{j as component,$ as universal};
+`;function d(a){let n,e;return n=new f({props:{raw:_}}),{c(){c(n.$$.fragment)},l(t){m(n.$$.fragment,t)},m(t,o){p(n,t,o),e=!0},p:r,i(t){e||(u(n.$$.fragment,t),e=!0)},o(t){g(n.$$.fragment,t),e=!1},d(t){b(n,t)}}}class j extends i{constructor(n){super(),l(this,n,null,d,s,{})}}export{j as component,$ as universal};
