@@ -2,7 +2,7 @@ import{s,n as r}from"../chunks/scheduler.CtbWrGNo.js";import{S as i,i as l,n as 
 
 # Содержание
 
-* [Секретрый ингредиент марксизма](./proletariat-ingredient/)
+* [Секретный ингредиент марксизма](./proletariat-ingredient/)
 * [Квантовая политэкономия](./political-honest-smart/)
 * [Материализм и эмпириогопницизм](./materializm/)
 * [Квантовая механика для диссидентов](./political-honest-smart/)
