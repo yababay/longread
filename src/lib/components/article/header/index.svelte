@@ -1,6 +1,6 @@
 <script lang="ts">
     import { page } from '$app/stores'
-    import { menu as appMenu, brand, home } from '$lib/article';
+    import { menu as appMenu, brand } from '$lib/article';
     import LOGO from './favicon.svg?raw'
     
     type MenuItem = { icon?: string, href?: string, title: string, items?: MenuItem[] }
@@ -8,7 +8,7 @@
     let { pathname } = $page.url
     if(!pathname.trim()) pathname = '/'
 
-    export let menu: MenuItem[] = appMenu
+    export let menu: MenuItem[] = appMenu, home: string = '..'
 
     const logo = LOGO
     .replace('fill="currentColor"', 'fill="white"')

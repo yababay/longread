@@ -1,8 +1,0 @@
-{
-    "openInExternalApp.openMapper": [
-      {
-        "extensionName": "md",
-        "apps":  "/usr/bin/abricotine"
-      },
-    ]
-}  
