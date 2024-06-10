@@ -18,7 +18,7 @@
     <meta name="author" content={author} />
     <meta name="description" content={description} />
     <meta name="keywords" content={keywords} />
-    <title>{title}</title>
+    <!-- title>{title}</title -->
 </svelte:head>
 
 <style lang="scss">
