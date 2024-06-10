@@ -1,4 +1,4 @@
-import{s,n as r}from"../chunks/scheduler.CtbWrGNo.js";import{S as i,i as l,n as c,o as m,p,l as u,m as d,q as h}from"../chunks/index.D_d3RPrM.js";import{A as b}from"../chunks/index.CHItn9hs.js";const g=!0,f=!1,$=Object.freeze(Object.defineProperty({__proto__:null,csr:f,ssr:g},Symbol.toStringTag,{value:"Module"})),y=`Здесь размещены длинные тексты (лонгриды) для Телеграм-канала [«Эхо русских революций»](https://t.me/channel_1917).
+import{s as i,n as l}from"../chunks/scheduler.CtbWrGNo.js";import{S as c,i as m,n as p,s as u,o as d,f as h,r as f,d as o,p as _,g as b,l as y,m as g,q as v}from"../chunks/index.BZldnXa1.js";import{A as k}from"../chunks/index.CobLoQ1-.js";import{t as z}from"../chunks/index.CDQ24tm-.js";const $=!0,j=!1,M=Object.freeze(Object.defineProperty({__proto__:null,csr:j,ssr:$},Symbol.toStringTag,{value:"Module"})),S=`Здесь размещены длинные тексты (лонгриды) для Телеграм-канала [«Эхо русских революций»](https://t.me/channel_1917).
 
 # Содержание
 
@@ -39,4 +39,4 @@ import{s,n as r}from"../chunks/scheduler.CtbWrGNo.js";import{S as i,i as l,n as 
 * [Шелдон и Ильич](articles/sheldon)
 * [Бронепоезда Белой армии](articles/bronepoezd)
 -->
-`;function _(a){let n,t;return n=new b({props:{raw:y}}),{c(){c(n.$$.fragment)},l(e){m(n.$$.fragment,e)},m(e,o){p(n,e,o),t=!0},p:r,i(e){t||(u(n.$$.fragment,e),t=!0)},o(e){d(n.$$.fragment,e),t=!1},d(e){h(n,e)}}}class j extends i{constructor(n){super(),l(this,n,null,_,s,{})}}export{j as component,$ as universal};
+`;function x(r){let e,t,a;return e=new k({props:{raw:S}}),document.title=z,{c(){p(e.$$.fragment),t=u()},l(n){d(e.$$.fragment,n),t=h(n),f("svelte-1uo06u1",document.head).forEach(o)},m(n,s){_(e,n,s),b(n,t,s),a=!0},p:l,i(n){a||(y(e.$$.fragment,n),a=!0)},o(n){g(e.$$.fragment,n),a=!1},d(n){n&&o(t),v(e,n)}}}class O extends c{constructor(e){super(),m(this,e,null,x,i,{})}}export{O as component,M as universal};
