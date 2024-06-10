@@ -2,6 +2,7 @@ import{s,n as r}from"../chunks/scheduler.CtbWrGNo.js";import{S as i,i as l,n as 
 
 # Содержание
 
+* [Макар Дедушкин и Боженька](./dedushkin-i-bojyenka)
 * [Макар Дедушкин и дурни](./dedushkin-i-durachok)
 * [Макар Дедушкин и письменный стол](./dedushkin-i-stol)
 * [Материализм и эмпириогопницизм](./materializm)
