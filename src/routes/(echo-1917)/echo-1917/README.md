@@ -2,6 +2,7 @@
 
 # Содержание
 
+* [«Муму» написал не Булгаков](./bulgakov-o-kvartirah)
 * [Макар Дедушкин и Боженька](./dedushkin-i-bojyenka)
 * [Макар Дедушкин и дурни](./dedushkin-i-durachok)
 * [Макар Дедушкин и письменный стол](./dedushkin-i-stol)
