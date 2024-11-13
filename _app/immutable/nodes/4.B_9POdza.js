@@ -1,7 +1,7 @@
 import{s as i,n as l}from"../chunks/scheduler.CtbWrGNo.js";import{S as c,i as m,n as p,s as u,o as d,f as h,r as f,d as s,p as _,g as b,l as y,m as g,q as k}from"../chunks/index.BZldnXa1.js";import{A as v}from"../chunks/index.CobLoQ1-.js";import{t as z}from"../chunks/index.CDQ24tm-.js";const $=!0,j=!1,M=Object.freeze(Object.defineProperty({__proto__:null,csr:j,ssr:$},Symbol.toStringTag,{value:"Module"})),S=`Здесь размещены длинные тексты (лонгриды) для Телеграм-канала [«Эхо русских революций»](https://t.me/channel_1917).
 
 # Содержание
-* [Потомок Мак-коя и нелюбовь к жизни](./mak-koy)
+* [Потомок Мак-Коя и нелюбовь к жизни](./mak-koy)
 * [«Муму» написал не Булгаков](./bulgakov-o-kvartirah)
 * [Макар Дедушкин и Боженька](./dedushkin-i-bojyenka)
 * [Макар Дедушкин и дурни](./dedushkin-i-durachok)
