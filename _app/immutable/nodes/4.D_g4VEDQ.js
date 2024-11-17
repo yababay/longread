@@ -16,7 +16,7 @@ import{s as i,n as l}from"../chunks/scheduler.CtbWrGNo.js";import{S as c,i as m,
 * [Остап Бендер на Гражданской войне](./ostap-na-grajdanskoy)
 * [Гарнитур мастера Мастера](./bulgakov-12-stulyev)
 * [Богемный пацифизм](./bogemniy-pacifizm)
-* [«Чтобы пузом на врага лечь...»](articles/puzom-na-vraga)
+* [«Чтобы пузом на врага лечь...»](./puzom-na-vraga)
 
 <!--
 
