@@ -2,7 +2,7 @@ import{s as i,n as l}from"../chunks/scheduler.CtbWrGNo.js";import{S as c,i as m,
 
 # Содержание
 
-* [Город-сад: буржуйский и советский](./gorod-sad-1)
+* [Город-сад: буржуйский и советский](./gorod-sad)
 * [Потомок Мак-Коя и нелюбовь к жизни](./mak-koy)
 * [«Муму» написал не Булгаков](./bulgakov-o-kvartirah)
 * [Макар Дедушкин и Боженька](./dedushkin-i-bojyenka)
