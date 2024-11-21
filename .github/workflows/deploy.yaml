@@ -15,8 +15,18 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 'latest'
+      - name: Add SSH key
+        env:
+            SSH_AUTH_SOCK: /tmp/ssh_agent.sock
+        run: |
+            mkdir -p /home/runner/.ssh
+            ssh-keyscan github.com >> /home/runner/.ssh/known_hosts
+            echo "${{ secrets.SSH_PRIVATE_KEY }}" > /home/runner/.ssh/longread
+            echo "${{ secrets.SSH_CONFIG }}" > /home/runner/.ssh/config
+            chmod 600 /home/runner/.ssh/longread
+            chmod 600 /home/runner/.ssh/config
       - run: npm install
       - name: Build the project
         run:  npx vite build
       - name: Deploy pages
-        run:  npx gh-pages -d build -t true -u "Михаил Беляков <bigbelk@live.ru>"
+        run:  npx gh-pages -d build -t true -u "Михаил Беляков <bigbelk@live.ru>" -r gh:yababay/longread.git
