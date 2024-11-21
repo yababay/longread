@@ -19,4 +19,4 @@ jobs:
       - name: Build the project
         run:  npx vite build
       - name: Deploy pages
-        run:  npx gh-pages -d build -t true
+        run:  npx gh-pages -d build -t true -u "Михаил Беляков <bigbelk@live.ru>"
