@@ -16,5 +16,7 @@ jobs:
         with:
           node-version: 'latest'
       - run: npm install
-      - name: Deploy the project
-        run: npm run deploy
+      - name: Build the project
+        run:  vite build
+      - name: Deploy pages
+        run:  gh-pages -d build -t true
