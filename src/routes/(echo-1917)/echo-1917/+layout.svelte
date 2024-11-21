@@ -18,8 +18,7 @@
     <meta name="author" content={author} />
     <meta name="description" content={description} />
     <meta name="keywords" content={keywords} />
-    <link rel="icon" href="/favicon.svg" />
-    <title>{title}</title>
+    <!-- title>{title}</title -->
 </svelte:head>
 
 <style lang="scss">
