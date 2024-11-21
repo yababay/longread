@@ -4,7 +4,7 @@
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
-		"git": "read -p 'Суть коммита: ' COMMIT; git add . ; git commit -am $COMMIT",
+		"git": "read -p 'Суть коммита: ' COMMIT; git add . ; git commit -am $COMMIT; git push origin gh",
 		"deploy": "vite build && gh-pages -d build -t true"
 	},
 	"devDependencies": {
