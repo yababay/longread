@@ -2,6 +2,7 @@
 
 # Содержание
 
+* [Критика гадской программы](./manifest)
 * [Взрослые дрессированные люди](./stalin-prix)
 * [Город-сад: буржуйский и советский](./gorod-sad)
 * [Потомок Мак-Коя и нелюбовь к жизни](./mak-koy)
@@ -33,12 +34,10 @@
 
 * [Темная лошадка Викжель](./vikjel)
 * [Непредсказуемое прошлое Владимира Владимировича](./nepredskazuemoe-proshloe-vv)
-* [«Чтобы пузом на врага лечь...»](articles/puzom-na-vraga)
 * [Богемный милитаризм](articles/bogemniy-militarizm)
 * [Поэтиное сердце](articles/poetinoe-serdtse)
 * [Фрагменты из книги Марины Цветаевой «Вольный проезд»](articles/volniy-proezd)
 * [Как Марина Цветаева «убила свою собственную трехлетнюю дочь»](articles/ubila-rebenka)
-* [Бертран Рассел о Советах](articles/rassel-sovety)
 * [Почему я отключил комментарии](articles/no-comments)
 * [Шелдон и Ильич](articles/sheldon)
 * [Бронепоезда Белой армии](articles/bronepoezd)
