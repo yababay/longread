@@ -2,6 +2,7 @@ import{s as i,n as l}from"../chunks/scheduler.CtbWrGNo.js";import{S as m,i as c,
 
 # Содержание
 
+* [Головотяп-социализм](./dogada)
 * [Критика гадской программы](./manifest)
 * [Взрослые дрессированные люди](./stalin-prix)
 * [Город-сад: буржуйский и советский](./gorod-sad)
