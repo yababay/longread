@@ -1,3 +1,5 @@
+all: push action
+
 pull:
 	git pull origin articles
 
@@ -5,6 +7,12 @@ push:
 	git add .
 	git commit -am update
 	git push origin articles
+
+action:
+	git checkout main
+	git checkout articles -- src
+	git push origin main
+	git checkout articles
 
 sync:
 	git checkout gh
