@@ -11,7 +11,7 @@ push:
 action:
 	git checkout main
 	git checkout articles -- src/articles
-	git checkout articles -- src/routes/(echo-1917)/echo-1917/README.md
+	git checkout articles -- src/routes
 	git push origin main
 	git checkout articles
 
