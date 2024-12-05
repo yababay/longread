@@ -10,7 +10,8 @@ push:
 
 action:
 	git checkout main
-	git checkout articles -- src
+	git checkout articles -- src/articles
+	git checkout articles -- src/routes/(echo-1917)/echo-1917/README.md
 	git push origin main
 	git checkout articles
 
