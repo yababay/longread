@@ -2,6 +2,7 @@ import{s as i,n as l}from"../chunks/scheduler.CtbWrGNo.js";import{S as m,i as c,
 
 # Содержание
 
+* [Улица красных зорь](./verharn)
 * [Хорошее подношение лошадям](./loshadyam)
 * [Головотяп-социализм](./dogada)
 * [Критика гадской программы](./manifest)
