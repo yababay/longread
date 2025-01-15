@@ -13,6 +13,7 @@
 * [Макар Дедушкин и Боженька](./dedushkin-i-bojyenka)
 * [Макар Дедушкин и дурни](./dedushkin-i-durachok)
 * [Макар Дедушкин и письменный стол](./dedushkin-i-stol)
+* [Секретный ингредиент марксизма](./proletariat-ingredient)
 * [Материализм и эмпириогопницизм](./materializm)
 * [Квантовая механика для диссидентов](./political-honest-smart)
 * [Метаморфозы поэта Смертяшкина](./smertyashkin)
