@@ -1,4 +1,4 @@
-import{s as i,n as l}from"../chunks/scheduler.CtbWrGNo.js";import{S as m,i as c,n as p,s as u,o as d,f as h,r as f,d as s,p as _,g as b,l as g,m as y,q as k}from"../chunks/index.BP2C5PhF.js";import{A as v}from"../chunks/index.DfX1Nfvc.js";import{t as z}from"../chunks/index.CDQ24tm-.js";const $=!0,j=!1,M=Object.freeze(Object.defineProperty({__proto__:null,csr:j,ssr:$},Symbol.toStringTag,{value:"Module"})),x=`Здесь размещены длинные тексты (лонгриды) для Телеграм-канала [«Эхо русских революций»](https://t.me/channel_1917).
+import{s as i,n as l}from"../chunks/scheduler.CtbWrGNo.js";import{S as m,i as c,n as p,s as u,o as d,f as h,r as f,d as s,p as g,g as _,l as b,m as y,q as k}from"../chunks/index.BZldnXa1.js";import{A as v}from"../chunks/index.CobLoQ1-.js";import{t as z}from"../chunks/index.CDQ24tm-.js";const $=!0,j=!1,M=Object.freeze(Object.defineProperty({__proto__:null,csr:j,ssr:$},Symbol.toStringTag,{value:"Module"})),x=`Здесь размещены длинные тексты (лонгриды) для Телеграм-канала [«Эхо русских революций»](https://t.me/channel_1917).
 
 # Содержание
 
@@ -13,6 +13,7 @@ import{s as i,n as l}from"../chunks/scheduler.CtbWrGNo.js";import{S as m,i as c,
 * [Макар Дедушкин и Боженька](./dedushkin-i-bojyenka)
 * [Макар Дедушкин и дурни](./dedushkin-i-durachok)
 * [Макар Дедушкин и письменный стол](./dedushkin-i-stol)
+* [Секретный ингредиент марксизма](./proletariat-ingredient)
 * [Материализм и эмпириогопницизм](./materializm)
 * [Квантовая механика для диссидентов](./political-honest-smart)
 * [Метаморфозы поэта Смертяшкина](./smertyashkin)
@@ -46,4 +47,4 @@ import{s as i,n as l}from"../chunks/scheduler.CtbWrGNo.js";import{S as m,i as c,
 * [Шелдон и Ильич](articles/sheldon)
 * [Бронепоезда Белой армии](articles/bronepoezd)
 -->
-`;function S(r){let e,t,a;return e=new v({props:{raw:x}}),document.title=z,{c(){p(e.$$.fragment),t=u()},l(n){d(e.$$.fragment,n),t=h(n),f("svelte-1uo06u1",document.head).forEach(s)},m(n,o){_(e,n,o),b(n,t,o),a=!0},p:l,i(n){a||(g(e.$$.fragment,n),a=!0)},o(n){y(e.$$.fragment,n),a=!1},d(n){n&&s(t),k(e,n)}}}class O extends m{constructor(e){super(),c(this,e,null,S,i,{})}}export{O as component,M as universal};
+`;function S(r){let e,t,a;return e=new v({props:{raw:x}}),document.title=z,{c(){p(e.$$.fragment),t=u()},l(n){d(e.$$.fragment,n),t=h(n),f("svelte-1uo06u1",document.head).forEach(s)},m(n,o){g(e,n,o),_(n,t,o),a=!0},p:l,i(n){a||(b(e.$$.fragment,n),a=!0)},o(n){y(e.$$.fragment,n),a=!1},d(n){n&&s(t),k(e,n)}}}class O extends m{constructor(e){super(),c(this,e,null,S,i,{})}}export{O as component,M as universal};
