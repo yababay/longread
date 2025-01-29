@@ -2,7 +2,7 @@
     "openInExternalApp.openMapper": [
       {
         "extensionName": "md",
-        "apps":  "/usr/bin/abricotine"
+        "apps":  "/usr/bin/gnome-text-editor"
       },
     ]
 }  
