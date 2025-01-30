@@ -1,7 +1,8 @@
-import{s as i,n as l}from"../chunks/scheduler.CtbWrGNo.js";import{S as m,i as c,n as p,s as u,o as d,f as h,r as f,d as s,p as g,g as _,l as b,m as y,q as k}from"../chunks/index.BZldnXa1.js";import{A as v}from"../chunks/index.CobLoQ1-.js";import{t as z}from"../chunks/index.CDQ24tm-.js";const $=!0,j=!1,M=Object.freeze(Object.defineProperty({__proto__:null,csr:j,ssr:$},Symbol.toStringTag,{value:"Module"})),x=`Здесь размещены длинные тексты (лонгриды) для Телеграм-канала [«Эхо русских революций»](https://t.me/channel_1917).
+import{s as i,n as l}from"../chunks/scheduler.CtbWrGNo.js";import{S as m,i as c,n as p,s as d,o as u,f,r as h,d as s,p as _,g as k,l as g,m as v,q as b}from"../chunks/index.BZldnXa1.js";import{A as y}from"../chunks/index.CobLoQ1-.js";import{t as z}from"../chunks/index.CDQ24tm-.js";const $=!0,j=!1,P=Object.freeze(Object.defineProperty({__proto__:null,csr:j,ssr:$},Symbol.toStringTag,{value:"Module"})),x=`Здесь размещены длинные тексты (лонгриды) для Телеграм-канала [«Эхо русских революций»](https://t.me/channel_1917).
 
 # Содержание
 
+* [О переименовании канала](./black-book)
 * [Научно-техническая поллюция](./pollution)
 * [Улица красных зорь](./verharn)
 * [Хорошее подношение лошадям](./loshadyam)
@@ -27,16 +28,9 @@ import{s as i,n as l}from"../chunks/scheduler.CtbWrGNo.js";import{S as m,i as c,
 * [«Чтобы пузом на врага лечь...»](./puzom-na-vraga)
 * [Бертран Рассел о Советах](./rassel-sovety)
 
-<!-- * [«Муму» написал не Булгаков](./bulgakov-o-kvartirah) -->
+<!-- 
 
-<!--
-
-Их можно также найти в моем [boosty-блоге](https://boosty.to/channel-1917), где есть все необходимое для того, чтобы финансово поддержать усилия автора по исследованию феноменов 1905-1907 и 1917 гг.
-
-Этот \`README\`-файл является главной страницей сайта, размещенного на gh-pages, поэтому cсылки в разделе «Содержание» не работают в репозитории Github. Начните просмотр [здесь](https://yababay.github.io/boosty-1917).
-
-# Содержание
-
+* [«Муму» написал не Булгаков](./bulgakov-o-kvartirah) 
 * [Темная лошадка Викжель](./vikjel)
 * [Непредсказуемое прошлое Владимира Владимировича](./nepredskazuemoe-proshloe-vv)
 * [Богемный милитаризм](articles/bogemniy-militarizm)
@@ -46,5 +40,6 @@ import{s as i,n as l}from"../chunks/scheduler.CtbWrGNo.js";import{S as m,i as c,
 * [Почему я отключил комментарии](articles/no-comments)
 * [Шелдон и Ильич](articles/sheldon)
 * [Бронепоезда Белой армии](articles/bronepoezd)
+
 -->
-`;function S(r){let e,t,a;return e=new v({props:{raw:x}}),document.title=z,{c(){p(e.$$.fragment),t=u()},l(n){d(e.$$.fragment,n),t=h(n),f("svelte-1uo06u1",document.head).forEach(s)},m(n,o){g(e,n,o),_(n,t,o),a=!0},p:l,i(n){a||(b(e.$$.fragment,n),a=!0)},o(n){y(e.$$.fragment,n),a=!1},d(n){n&&s(t),k(e,n)}}}class O extends m{constructor(e){super(),c(this,e,null,S,i,{})}}export{O as component,M as universal};
+`;function S(r){let e,a,t;return e=new y({props:{raw:x}}),document.title=z,{c(){p(e.$$.fragment),a=d()},l(n){u(e.$$.fragment,n),a=f(n),h("svelte-1uo06u1",document.head).forEach(s)},m(n,o){_(e,n,o),k(n,a,o),t=!0},p:l,i(n){t||(g(e.$$.fragment,n),t=!0)},o(n){v(e.$$.fragment,n),t=!1},d(n){n&&s(a),b(e,n)}}}class C extends m{constructor(e){super(),c(this,e,null,S,i,{})}}export{C as component,P as universal};
