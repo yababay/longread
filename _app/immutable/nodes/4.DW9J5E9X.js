@@ -1,8 +1,8 @@
-import{s as i,n as l}from"../chunks/scheduler.CtbWrGNo.js";import{S as m,i as c,n as p,s as d,o as u,f,r as h,d as s,p as k,g as _,l as v,m as g,q as b}from"../chunks/index.BZldnXa1.js";import{A as y}from"../chunks/index.CobLoQ1-.js";import{t as z}from"../chunks/index.CDQ24tm-.js";const $=!0,j=!1,P=Object.freeze(Object.defineProperty({__proto__:null,csr:j,ssr:$},Symbol.toStringTag,{value:"Module"})),x=`Здесь размещены длинные тексты (лонгриды) для Телеграм-канала [«Эхо русских революций»](https://t.me/channel_1917).
+import{s as i,n as l}from"../chunks/scheduler.CtbWrGNo.js";import{S as m,i as c,n as d,s as p,o as u,f,r as h,d as s,p as k,g as _,l as v,m as g,q as b}from"../chunks/index.BZldnXa1.js";import{A as y}from"../chunks/index.CobLoQ1-.js";import{t as z}from"../chunks/index.CDQ24tm-.js";const $=!0,j=!1,P=Object.freeze(Object.defineProperty({__proto__:null,csr:j,ssr:$},Symbol.toStringTag,{value:"Module"})),x=`Здесь размещены длинные тексты (лонгриды) для Телеграм-канала [«Эхо русских революций»](https://t.me/channel_1917).
 
 # Содержание
 
-* [Задушевный антибольшевизм](./past-continuous)
+* [СССР под микроскопом](./micro-ussr)
 * [Ленин в сентябре](./lenin-v-sentyabre)
 * [Великие дни](./velikie-dni)
 * [О переименовании канала](./black-book)
@@ -45,4 +45,4 @@ import{s as i,n as l}from"../chunks/scheduler.CtbWrGNo.js";import{S as m,i as c,
 * [Бронепоезда Белой армии](articles/bronepoezd)
 
 -->
-`;function S(r){let e,t,a;return e=new y({props:{raw:x}}),document.title=z,{c(){p(e.$$.fragment),t=d()},l(n){u(e.$$.fragment,n),t=f(n),h("svelte-1uo06u1",document.head).forEach(s)},m(n,o){k(e,n,o),_(n,t,o),a=!0},p:l,i(n){a||(v(e.$$.fragment,n),a=!0)},o(n){g(e.$$.fragment,n),a=!1},d(n){n&&s(t),b(e,n)}}}class C extends m{constructor(e){super(),c(this,e,null,S,i,{})}}export{C as component,P as universal};
+`;function S(r){let e,a,t;return e=new y({props:{raw:x}}),document.title=z,{c(){d(e.$$.fragment),a=p()},l(n){u(e.$$.fragment,n),a=f(n),h("svelte-1uo06u1",document.head).forEach(s)},m(n,o){k(e,n,o),_(n,a,o),t=!0},p:l,i(n){t||(v(e.$$.fragment,n),t=!0)},o(n){g(e.$$.fragment,n),t=!1},d(n){n&&s(a),b(e,n)}}}class C extends m{constructor(e){super(),c(this,e,null,S,i,{})}}export{C as component,P as universal};
