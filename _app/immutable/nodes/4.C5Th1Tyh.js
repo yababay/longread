@@ -2,6 +2,7 @@ import{s as i,n as l}from"../chunks/scheduler.CtbWrGNo.js";import{S as m,i as c,
 
 # Содержание
 
+* [Как Александр Николаевич Бенуа стал гардеробщицей](./reincarnation)
 * [СССР под микроскопом](./micro-ussr)
 * [Ленин в сентябре](./lenin-v-sentyabre)
 * [Великие дни](./velikie-dni)
