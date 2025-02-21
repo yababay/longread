@@ -2,6 +2,7 @@ import{s as i,n as l}from"../chunks/scheduler.CtbWrGNo.js";import{S as m,i as c,
 
 # Содержание
 
+* [«Золотце, за тобой пришли!»](./zolotse)
 * [Как Александр Николаевич Бенуа стал гардеробщицей](./benua)
 * [СССР под микроскопом](./micro-ussr)
 * [Ленин в сентябре](./lenin-v-sentyabre)
