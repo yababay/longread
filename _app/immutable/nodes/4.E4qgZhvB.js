@@ -1,9 +1,9 @@
-import{s as i,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n as d,l as p,m as u,o as h,a as k,p as f,g as v,r as _,q as b,j as g}from"../chunks/BK98yE9u.js";import{A as y}from"../chunks/CrHRKOku.js";import{t as z}from"../chunks/CDQ24tm-.js";const $=!0,j=!1,P=Object.freeze(Object.defineProperty({__proto__:null,csr:j,ssr:$},Symbol.toStringTag,{value:"Module"})),x=`Здесь размещены длинные тексты (лонгриды) для Телеграм-канала [«Эхо русских революций»](https://t.me/channel_1917).
+import{s as i,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n as d,l as u,m as p,o as h,a as k,p as v,g as f,r as _,q as g,j as y}from"../chunks/BK98yE9u.js";import{A as b}from"../chunks/CrHRKOku.js";import{t as z}from"../chunks/CDQ24tm-.js";const $=!0,j=!1,P=Object.freeze(Object.defineProperty({__proto__:null,csr:j,ssr:$},Symbol.toStringTag,{value:"Module"})),x=`Здесь размещены длинные тексты (лонгриды) для Телеграм-канала [«Эхо русских революций»](https://t.me/channel_1917).
 
 # Содержание
 
 <!-- * [Бизнес-план для большевиков](./business-plan) -->
-* [Новая хронология российской революции](./railroad-water)
+* [Новая хронология российской революции](./new-revolution-chronology)
 * [Нота Государственного секретаря Соединенных штатов Америки Кольби](./colby)
 * [Разогнали «Учредилку»](./uchredilka)
 * [Джек Рид — «антисоветчик»](./reed-antisovet)
@@ -55,4 +55,4 @@ import{s as i,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n a
 * [Бронепоезда Белой армии](articles/bronepoezd)
 
 -->
-`;function S(r){let e,a,t;return e=new y({props:{raw:x}}),document.title=z,{c(){b(e.$$.fragment),a=g()},l(n){f(e.$$.fragment,n),a=v(n),_("svelte-1uo06u1",document.head).forEach(s)},m(n,o){h(e,n,o),k(n,a,o),t=!0},p:l,i(n){t||(u(e.$$.fragment,n),t=!0)},o(n){p(e.$$.fragment,n),t=!1},d(n){n&&s(a),d(e,n)}}}class C extends m{constructor(e){super(),c(this,e,null,S,i,{})}}export{C as component,P as universal};
+`;function S(r){let e,a,t;return e=new b({props:{raw:x}}),document.title=z,{c(){g(e.$$.fragment),a=y()},l(n){v(e.$$.fragment,n),a=f(n),_("svelte-1uo06u1",document.head).forEach(s)},m(n,o){h(e,n,o),k(n,a,o),t=!0},p:l,i(n){t||(p(e.$$.fragment,n),t=!0)},o(n){u(e.$$.fragment,n),t=!1},d(n){n&&s(a),d(e,n)}}}class C extends m{constructor(e){super(),c(this,e,null,S,i,{})}}export{C as component,P as universal};
