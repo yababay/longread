@@ -29,4 +29,4 @@ jobs:
       - name: Build the project
         run:  npx vite build
       - name: Deploy pages
-        run:  npx gh-pages -d build -t true -u "Михаил Беляков <bigbelk@live.ru>" -r gh:yababay/longread.git
+        run:  GIT_USER=yababay npx gh-pages -d build -u "Михаил Беляков <bigbelk@live.ru>" -r gh:yababay/longread.git
