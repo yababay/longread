@@ -3,6 +3,7 @@ import{s as i,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n a
 # Содержание
 
 <!-- * [Бизнес-план для большевиков](./business-plan) -->
+* [Атака прилагательных](./ataka)
 * [Чудо отчуждения](./kuzbass)
 * [Новая хронология российской революции](./new-revolution-chronology)
 * [Нота Государственного секретаря Соединенных штатов Америки Кольби](./colby)
