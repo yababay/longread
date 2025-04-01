@@ -3,6 +3,7 @@ import{s as i,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n a
 # Содержание
 
 <!-- * [Бизнес-план для большевиков](./business-plan) -->
+* [Просроченный озверин](./ozverin)
 * [Чья Гренада?](./grenada)
 * [Атака прилагательных](./ataka)
 * [Чудо отчуждения](./kuzbass)
