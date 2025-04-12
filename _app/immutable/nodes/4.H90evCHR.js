@@ -4,6 +4,8 @@ import{s as i,n as l}from"../chunks/DYjCt7Qj.js";import{S as c,i as m,d as s,n a
 
 <!-- * [Бизнес-план для большевиков](./business-plan)
 * [Индус, три Али](./indus) -->
+
+* [Квакерско-большевистское братство](./bratstvo)
 * [Марксизм как искусство обещать](./obeshat)
 * [Лондонские страдания РСДРП](./london)
 * [Дети фабриканта Шмита](./shmit)
