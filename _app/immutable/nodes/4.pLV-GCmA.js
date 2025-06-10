@@ -1,4 +1,4 @@
-import{s as i,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n as d,l as u,m as p,o as h,a as k,p as v,g as y,r as b,q as g,j as f}from"../chunks/BK98yE9u.js";import{A as _}from"../chunks/CrHRKOku.js";import{t as z}from"../chunks/CDQ24tm-.js";const $=!0,j=!1,P=Object.freeze(Object.defineProperty({__proto__:null,csr:j,ssr:$},Symbol.toStringTag,{value:"Module"})),x=`Здесь размещены длинные тексты (лонгриды) для Телеграм-канала [«Эхо русских революций»](https://t.me/channel_1917).
+import{s as i,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n as d,l as u,m as p,o as h,a as k,p as v,g,r as y,q as b,j as f}from"../chunks/BK98yE9u.js";import{A as _}from"../chunks/CrHRKOku.js";import{t as z}from"../chunks/CDQ24tm-.js";const $=!0,j=!1,P=Object.freeze(Object.defineProperty({__proto__:null,csr:j,ssr:$},Symbol.toStringTag,{value:"Module"})),x=`Здесь размещены длинные тексты (лонгриды) для Телеграм-канала [«Эхо русских революций»](https://t.me/channel_1917).
 
 # Содержание
 
@@ -8,6 +8,7 @@ import{s as i,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n a
 
 -->
 
+* [Гегель против Маркса](./gegel-vs-marx)
 * [Каляка-маляка как метод индустриализации](./kalyaka)
 * [Чудо голодания](./chudo-golodaniya)
 * [С пламенным большевистским игнором](./ignor)
@@ -75,4 +76,4 @@ import{s as i,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n a
 * [Бронепоезда Белой армии](articles/bronepoezd)
 
 -->
-`;function S(r){let e,a,t;return e=new _({props:{raw:x}}),document.title=z,{c(){g(e.$$.fragment),a=f()},l(n){v(e.$$.fragment,n),a=y(n),b("svelte-1uo06u1",document.head).forEach(s)},m(n,o){h(e,n,o),k(n,a,o),t=!0},p:l,i(n){t||(p(e.$$.fragment,n),t=!0)},o(n){u(e.$$.fragment,n),t=!1},d(n){n&&s(a),d(e,n)}}}class C extends m{constructor(e){super(),c(this,e,null,S,i,{})}}export{C as component,P as universal};
+`;function S(r){let e,a,t;return e=new _({props:{raw:x}}),document.title=z,{c(){b(e.$$.fragment),a=f()},l(n){v(e.$$.fragment,n),a=g(n),y("svelte-1uo06u1",document.head).forEach(s)},m(n,o){h(e,n,o),k(n,a,o),t=!0},p:l,i(n){t||(p(e.$$.fragment,n),t=!0)},o(n){u(e.$$.fragment,n),t=!1},d(n){n&&s(a),d(e,n)}}}class C extends m{constructor(e){super(),c(this,e,null,S,i,{})}}export{C as component,P as universal};
