@@ -8,6 +8,7 @@ import{s as i,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n a
 
 -->
 
+* [Микулы Селяниновичи](./mikuly)
 * [Гегель против Маркса](./gegel-vs-marx)
 * [Каляка-маляка как метод индустриализации](./kalyaka)
 * [Чудо голодания](./chudo-golodaniya)
