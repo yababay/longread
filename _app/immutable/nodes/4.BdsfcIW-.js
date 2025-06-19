@@ -8,6 +8,7 @@ import{s as i,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n a
 
 -->
 
+* [Что наврал Маркс про рабочий класс](./workers)
 * [Микулы Селяниновичи](./mikuly)
 * [Гегель против Маркса](./gegel-vs-marx)
 * [Каляка-маляка как метод индустриализации](./kalyaka)
@@ -77,4 +78,4 @@ import{s as i,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n a
 * [Бронепоезда Белой армии](articles/bronepoezd)
 
 -->
-`;function S(r){let e,a,t;return e=new _({props:{raw:x}}),document.title=z,{c(){b(e.$$.fragment),a=f()},l(n){v(e.$$.fragment,n),a=g(n),y("svelte-1uo06u1",document.head).forEach(s)},m(n,o){h(e,n,o),k(n,a,o),t=!0},p:l,i(n){t||(p(e.$$.fragment,n),t=!0)},o(n){u(e.$$.fragment,n),t=!1},d(n){n&&s(a),d(e,n)}}}class C extends m{constructor(e){super(),c(this,e,null,S,i,{})}}export{C as component,P as universal};
+`;function w(r){let e,a,t;return e=new _({props:{raw:x}}),document.title=z,{c(){b(e.$$.fragment),a=f()},l(n){v(e.$$.fragment,n),a=g(n),y("svelte-1uo06u1",document.head).forEach(s)},m(n,o){h(e,n,o),k(n,a,o),t=!0},p:l,i(n){t||(p(e.$$.fragment,n),t=!0)},o(n){u(e.$$.fragment,n),t=!1},d(n){n&&s(a),d(e,n)}}}class C extends m{constructor(e){super(),c(this,e,null,w,i,{})}}export{C as component,P as universal};
