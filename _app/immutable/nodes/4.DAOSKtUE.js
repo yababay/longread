@@ -9,6 +9,7 @@ import{s as i,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n a
 
 -->
 
+* [Давай за яйца-то дёрну](./dernu)
 * [Нечто и ничто](./nechto-i-nichto)
 * [Что наврал Маркс про рабочий класс](./workers)
 * [Микулы Селяниновичи](./mikuly)
