@@ -10,6 +10,7 @@ import{s as i,n as l}from"../chunks/DYjCt7Qj.js";import{S as c,i as m,d as r,n a
 
 -->
 
+* [Корни Пол-Потовского режима в Кампучии (перевод с английского)](./pol-pot)
 * [Осторожно: не кантовать!](./ne-kantovat)
 * [«Давай за яйца-то дёрну»](./dernu)
 * [Нечто и ничто](./nechto-i-nichto)
