@@ -11,6 +11,7 @@ import{s as i,n as l}from"../chunks/DYjCt7Qj.js";import{S as c,i as m,d as s,n a
 
 -->
 
+* [Моя любимая поэтэсса](./poetessa)
 * [Бороться и искать, найти и перепрятать](./scott)
 * [Винегрет из съездов: правила дегустации](./so-many-congresses)
 * [Господа демократы минувшего века](./dobrolubov)
