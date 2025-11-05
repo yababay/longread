@@ -1,4 +1,4 @@
-import{s as i,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n as d,l as u,m as p,o as h,a as k,p as v,g as y,r as g,q as b,j as f}from"../chunks/BK98yE9u.js";import{A as _}from"../chunks/CrHRKOku.js";import{t as z}from"../chunks/CDQ24tm-.js";const j=!0,$=!1,P=Object.freeze(Object.defineProperty({__proto__:null,csr:$,ssr:j},Symbol.toStringTag,{value:"Module"})),x=`Здесь размещены длинные тексты (лонгриды) для Телеграм-канала [«Эхо русских революций»](https://t.me/channel_1917).
+import{s as i,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n as u,l as d,m as p,o as h,a as k,p as v,g as y,r as g,q as b,j as f}from"../chunks/BK98yE9u.js";import{A as _}from"../chunks/CrHRKOku.js";import{t as z}from"../chunks/CDQ24tm-.js";const j=!0,$=!1,P=Object.freeze(Object.defineProperty({__proto__:null,csr:$,ssr:j},Symbol.toStringTag,{value:"Module"})),x=`Здесь размещены длинные тексты (лонгриды) для Телеграм-канала [«Эхо русских революций»](https://t.me/channel_1917).
 
 # Содержание
 
@@ -11,6 +11,7 @@ import{s as i,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n a
 
 -->
 
+* [Маэстро раскудрявого инсульта](./mie-insults)
 * [Ленин Шрёденгера](./shredinger)
 * [Маховик отсталости](./mahovik)
 * [Моя любимая поэтэсса](./poetessa)
@@ -97,4 +98,4 @@ import{s as i,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n a
 * [Бронепоезда Белой армии](articles/bronepoezd)
 
 -->
-`;function w(r){let e,a,o;return e=new _({props:{raw:x}}),document.title=z,{c(){b(e.$$.fragment),a=f()},l(n){v(e.$$.fragment,n),a=y(n),g("svelte-1uo06u1",document.head).forEach(s)},m(n,t){h(e,n,t),k(n,a,t),o=!0},p:l,i(n){o||(p(e.$$.fragment,n),o=!0)},o(n){u(e.$$.fragment,n),o=!1},d(n){n&&s(a),d(e,n)}}}class C extends m{constructor(e){super(),c(this,e,null,w,i,{})}}export{C as component,P as universal};
+`;function w(r){let e,a,o;return e=new _({props:{raw:x}}),document.title=z,{c(){b(e.$$.fragment),a=f()},l(n){v(e.$$.fragment,n),a=y(n),g("svelte-1uo06u1",document.head).forEach(s)},m(n,t){h(e,n,t),k(n,a,t),o=!0},p:l,i(n){o||(p(e.$$.fragment,n),o=!0)},o(n){d(e.$$.fragment,n),o=!1},d(n){n&&s(a),u(e,n)}}}class C extends m{constructor(e){super(),c(this,e,null,w,i,{})}}export{C as component,P as universal};
