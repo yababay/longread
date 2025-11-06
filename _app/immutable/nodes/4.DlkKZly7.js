@@ -11,6 +11,8 @@ import{s as i,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n a
 
 -->
 
+* [Чингачгукствующий материализм](./mie-militancy)
+* [Развешивание ярлыков как высшая стадия полоскания грязного белья](./mie-labeling)
 * [Маэстро раскудрявого инсульта](./mie-insults)
 * [Ленин Шрёденгера](./shredinger)
 * [Маховик отсталости](./mahovik)
@@ -98,4 +100,4 @@ import{s as i,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n a
 * [Бронепоезда Белой армии](articles/bronepoezd)
 
 -->
-`;function w(r){let e,a,o;return e=new _({props:{raw:x}}),document.title=z,{c(){b(e.$$.fragment),a=f()},l(n){v(e.$$.fragment,n),a=y(n),g("svelte-1uo06u1",document.head).forEach(s)},m(n,t){h(e,n,t),k(n,a,t),o=!0},p:l,i(n){o||(p(e.$$.fragment,n),o=!0)},o(n){d(e.$$.fragment,n),o=!1},d(n){n&&s(a),u(e,n)}}}class C extends m{constructor(e){super(),c(this,e,null,w,i,{})}}export{C as component,P as universal};
+`;function w(r){let e,a,t;return e=new _({props:{raw:x}}),document.title=z,{c(){b(e.$$.fragment),a=f()},l(n){v(e.$$.fragment,n),a=y(n),g("svelte-1uo06u1",document.head).forEach(s)},m(n,o){h(e,n,o),k(n,a,o),t=!0},p:l,i(n){t||(p(e.$$.fragment,n),t=!0)},o(n){d(e.$$.fragment,n),t=!1},d(n){n&&s(a),u(e,n)}}}class C extends m{constructor(e){super(),c(this,e,null,w,i,{})}}export{C as component,P as universal};
