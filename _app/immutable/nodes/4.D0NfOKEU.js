@@ -11,6 +11,7 @@ import{s as i,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n a
 
 -->
 
+* [Чморить Богданова и Маха](./mie-chmorit)
 * [Чингачгукствующий материализм](./mie-militancy)
 * [Развешивание ярлыков как высшая стадия полоскания грязного белья](./mie-labeling)
 * [Маэстро раскудрявого инсульта](./mie-insults)
