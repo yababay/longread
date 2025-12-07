@@ -4,8 +4,8 @@ import{s as r,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n a
 
 <!-- * [А манифест-то не настоящий!](./manifest-false) -->
 <!-- * [Эренбург и Швамбрания](./shaluny) -->
-<!-- * [Социал-лунатизм](./social-lunatizm) -->
 
+* [Социал-лунатизм](./social-lunatizm)
 * [Индустриализация по-маньчжоугойски](./industr-mang)
 * [Ленин и Youtube](./lenin-i-youtube)
 * [История Жореса Алфёрова, который любил СССР, да продал видеомагнитофон](./mie-alferov)
