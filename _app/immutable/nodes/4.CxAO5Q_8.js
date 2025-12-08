@@ -1,10 +1,11 @@
-import{s as r,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n as u,l as d,m as p,o as h,a as v,p as k,g as y,r as g,q as b,j as f}from"../chunks/BK98yE9u.js";import{A as _}from"../chunks/CrHRKOku.js";import{t as z}from"../chunks/CDQ24tm-.js";const $=!0,j=!1,P=Object.freeze(Object.defineProperty({__proto__:null,csr:j,ssr:$},Symbol.toStringTag,{value:"Module"})),w=`Здесь размещены длинные тексты (лонгриды) для Телеграм-канала [«Эхо русских революций»](https://t.me/channel_1917).
+import{s as r,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n as u,l as d,m as p,o as h,a as v,p as k,g as y,r as g,q as b,j as f}from"../chunks/BK98yE9u.js";import{A as _}from"../chunks/CrHRKOku.js";import{t as z}from"../chunks/CDQ24tm-.js";const j=!0,$=!1,P=Object.freeze(Object.defineProperty({__proto__:null,csr:$,ssr:j},Symbol.toStringTag,{value:"Module"})),w=`Здесь размещены длинные тексты (лонгриды) для Телеграм-канала [«Эхо русских революций»](https://t.me/channel_1917).
 
 # Содержание
 
 <!-- * [А манифест-то не настоящий!](./manifest-false) -->
 <!-- * [Эренбург и Швамбрания](./shaluny) -->
 
+* [Мадмуазель Жанна из Парижа и Маньчжурии](./madmuazel-janna)
 * [Социал-лунатизм](./social-lunatizm)
 * [Индустриализация по-маньчжоугойски](./industr-mang)
 * [Ленин и Youtube](./lenin-i-youtube)
