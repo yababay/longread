@@ -4,7 +4,9 @@ import{s as r,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as s,n a
 
 <!-- * [А манифест-то не настоящий!](./manifest-false) -->
 <!-- * [Эренбург и Швамбрания](./shaluny) -->
+<!-- * [Мировая война Остапа Бендера](./mirovaya-voina-ostapa) -->
 
+* [Ёжик в дурмане](./ejik-v-tumane)
 * [Мадмуазель Жанна из Парижа и Маньчжурии](./madmuazel-janna)
 * [Социал-лунатизм](./social-lunatizm)
 * [Индустриализация по-маньчжоугойски](./industr-mang)
