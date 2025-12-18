@@ -6,11 +6,11 @@
 
 * [А манифест-то не настоящий!](./manifest-false)
 * [Эренбург и Швамбрания](./shaluny)
-* [Мировая война Остапа Бендера](./mirovaya-voina-ostapa) 
 * [Калифорнюшка, белая берёзынька](./california-belaya-bereza)
 
 -->
 
+* [Мировая война Остапа Бендера](./mirovaya-voina-ostapa) 
 * [Смертельный Тянитолкай](./smertelniy-tyanitolkay)
 * [Баллада о баланде](./ballada-o-balande)
 * [Ёжик в дурмане](./ejik-v-tumane)
