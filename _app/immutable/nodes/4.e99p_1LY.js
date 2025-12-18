@@ -6,11 +6,11 @@ import{s as r,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as i,n a
 
 * [А манифест-то не настоящий!](./manifest-false)
 * [Эренбург и Швамбрания](./shaluny)
-* [Мировая война Остапа Бендера](./mirovaya-voina-ostapa) 
 * [Калифорнюшка, белая берёзынька](./california-belaya-bereza)
 
 -->
 
+* [Мировая война Остапа Бендера](./mirovaya-voina-ostapa) 
 * [Смертельный Тянитолкай](./smertelniy-tyanitolkay)
 * [Баллада о баланде](./ballada-o-balande)
 * [Ёжик в дурмане](./ejik-v-tumane)
