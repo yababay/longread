@@ -10,6 +10,7 @@ import{s as r,n as l}from"../chunks/DYjCt7Qj.js";import{S as m,i as c,d as i,n a
 
 -->
 
+* [Омметр в окопах Сталинграда](./ommetr)
 * [Из воспоминаний великой княжны Ольги Александровны](./olga-alexandrovna)
 * [Мировая война Остапа Бендера](./mirovaya-voina-ostapa) 
 * [Смертельный Тянитолкай](./smertelniy-tyanitolkay)
