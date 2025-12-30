@@ -1,0 +1,4 @@
+import{s as c,n as i}from"../chunks/DYjCt7Qj.js";import{S as m,i as l,d as s,n as u,l as p,m as _,o as f,a as d,q as g,g as $,r as h,u as y,j as v}from"../chunks/ToJyDDE0.js";import{A as S}from"../chunks/BRwsulvi.js";import{t as b}from"../chunks/CDQ24tm-.js";const j=!0,x=!1,C=Object.freeze(Object.defineProperty({__proto__:null,csr:x,ssr:j},Symbol.toStringTag,{value:"Module"})),q=`# Содержание
+
+* [Подношение святому Янусу](./podnoshenie-svyatomu-yanusu)
+`;function w(r){let t,n,o;return t=new S({props:{raw:q}}),document.title=b,{c(){y(t.$$.fragment),n=v()},l(e){g(t.$$.fragment,e),n=$(e),h("svelte-1uo06u1",document.head).forEach(s)},m(e,a){f(t,e,a),d(e,n,a),o=!0},p:i,i(e){o||(_(t.$$.fragment,e),o=!0)},o(e){p(t.$$.fragment,e),o=!1},d(e){e&&s(n),u(t,e)}}}class E extends m{constructor(t){super(),l(this,t,null,w,c,{})}}export{E as component,C as universal};
