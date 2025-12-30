@@ -1,0 +1,15 @@
+{
+    "title": "Эхо русских революций",
+    "subtitle": "голоса тревожных лет",
+    "description": "Сайт и Телеграм-канал о событиях 1905-1907 и 1917 гг.",
+    "keywords": "революция, Россия, исторические личности",
+    "author": "Михаил Беляков",
+    "license": "Использование материалов сайта регулируется лицензией <a href='https://creativecommons.org/licenses/by-nc/4.0/'>CC BY-NC 4.0</a>.",
+    "url": "https://t.me/channel-1917",
+    "brand": "Лонгриды канала «Эхо русских революций»",
+    "bootstrap": "remote",
+    "home": "/echo-1917",
+    "menu": [
+        { "icon": "telegram", "href": "https://t.me/channel-1917", "title": "Телеграм-канал"}
+    ]
+}

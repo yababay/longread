@@ -1,0 +1,23 @@
+$body-background: #444d53; 
+$body-color: #bec5c9;
+$body-min-aspect-ratio: calc(1000 / 800);
+$body-max-aspect-ratio: calc(1920 / 900);
+
+$link-color: #91999f;
+$special-color-1: silver !default;
+$special-color-2: darkgrey !default;
+
+$background-image: url('/background.png');
+$background-image-width-in-pixels: 1500; 
+$background-image-height-in-pixels: 800; 
+$background-image-ratio: calc($background-image-height-in-pixels / $background-image-width-in-pixels); 
+
+$background-image-height: 100vh;
+$background-image-width: calc($background-image-height * $background-image-ratio);
+
+$header-height: calc(3.5rem - 1px);
+$footer-height: 2rem;
+
+$article-min-width: calc(320px - 1rem);
+$article-max-width: 80ch;
+$article-width: clamp($article-min-width, 100vw / 1.5, $article-max-width);
